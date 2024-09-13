@@ -1,1 +1,1 @@
-# Menghitung-bilangan-pangkat-menggunakan-algoritme-rekursi
+Latihan halaman 69
